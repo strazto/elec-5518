@@ -9,3 +9,5 @@ end
 % do stuff above
 
 system(myrpi, 'ls -l /home/pi/');
+
+% system(myrpi, 'sudo shutdown -h now');
